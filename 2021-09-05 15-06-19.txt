@@ -1,0 +1,28 @@
+Modele_name     	 Test 	 Comments 
+Reading TextFile 	 Pass 	 Reaading Successfull
+Login				 Pass	 Login Successfull 
+
+APPLE LAPTOP-
+Result 1 -> 2020 Apple MacBook Air (13.3-inch/33.78 cm, Apple M1 chip with 8?core CPU and 7?core GPU, 8GB RAM, 256GB SSD) - Silver
+Result 2 -> 2019 Apple MacBook Pro (16-inch/40.65 cm, 16GB RAM, 1TB Storage, 2.3GHz 9th Gen Intel Core i9) - Silver
+Result 3 -> 2019 Apple MacBook Pro (16-inch/40.65 cm, 16GB RAM, 1TB Storage, 2.3GHz 9th Gen Intel Core i9) - Silver
+Result 4 -> 2019 Apple MacBook Pro (16-inch/40.65 cm, 16GB RAM, 512GB Storage, 2.6GHz 9th Gen Intel Core i7) - Space Grey
+Result 5 -> 2020 Apple MacBook Pro (13.3-inch/33.78 cm, Apple M1 chip with 8?core CPU and 8?core GPU, 8GB RAM, 256GB SSD) - Space Grey
+-------------
+
+MENS WATCH-
+Result 1 -> Business Watch Mens Luxury Brand LED Digital Watches Sports Military Brown SY-3022 Analog-Digital Watch - for Men
+Result 2 -> Blue Dial Day and Date Functioning Analogue Watch for Men's
+Result 3 -> Analogue Men's Watch (Black Dial Black Colored Strap)
+Result 4 -> Formal Analogue Men's Watch (Black Dial Black Colored Strap)
+Result 5 -> Digital Men's Watch
+-------------
+
+SHOES -
+Result 1 -> Men's Wonder-13 Sports Running Shoes
+Result 2 -> Airsocks-12 Sports,Casual,Walking,Kniited Socks Shoes
+Result 3 -> Men's Rider-01 Phylon Sports,Running,Walking Shoes
+Result 4 -> Men's Worldcup-03 Running,Sports,Gym,Phylon Sports
+Result 5 -> Men's Wonder-13 Sports Running Shoes
+-------------
+
